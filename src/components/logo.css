@@ -1,0 +1,9 @@
+
+.logoIcon {
+	background: linear-gradient(0deg, #34ebe8 0%, #5f34eb 50%, #df34eb 100%);
+	border-radius: 50%;
+	box-shadow: 2px 2px 6px #000;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}

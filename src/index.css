@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /*background-image: url("./images/white-wall.jpg");
+  background-size: 1250px 2575px;*/
+
+background-image: rgb(255,255,255);
+background-image: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 48%, rgba(215,215,215,1) 100%);
+background-size: 1000px 3000px;
 }
 
 code {
