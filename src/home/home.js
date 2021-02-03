@@ -79,8 +79,8 @@ class Home extends Component {
 		new window.google.maps.Map(this.googleMapRef.current, {
 			zoom: 16,
 			center:{
-				lat: 56.4776814,
-				lng: -2.8301324,
+				lat: 55.836561, 
+				lng: -4.025168,
 			},
 			disableDefaultUI: true,
 		});
@@ -148,7 +148,7 @@ class Home extends Component {
 				<div class="w-75 center">
 					<div class="pl4 w-30 dib v-top">
 						<h3 class="tl pb3 pt1">Contact details:</h3>
-						<p class="tl"><b>Email:</b>ashleygates@gmail.com</p>
+						<p class="tl"><b>Email:</b>ashley*******.com</p>
 						<p class="tl"><b>Number:</b> 383843987</p>
 					</div>
 					<div class="pl5 w-50 dib v-top">
@@ -190,7 +190,7 @@ class Home extends Component {
 					<h2>Studio Location:</h2>
 					<div className="w-75 center">
 							<p class="ma0 f3 lh-copy">
-							    53 Ferry Rd, Monifieth, Dundee, DD5 4NU
+							    33 ***** Rd, ******, ******, *** ***
 							</p>
 						
 						<div id="google-map" ref={this.googleMapRef} style={{width:'800px', height: '300px', position: ''}} class="center">
